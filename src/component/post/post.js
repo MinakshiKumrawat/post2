@@ -11,7 +11,7 @@ const Post = () => {
                           </p>
                       </div>
                       <div className="center-img">
-                        <img src="./images/three-img.png" alt="img" /> 
+                        <img src="./images/three-img.png" alt="img" className="main-img"/> 
                       </div>
                       <h1>invest in <br /><b>your future</b></h1>
                       <div className="website">
